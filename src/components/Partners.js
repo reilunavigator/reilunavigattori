@@ -23,7 +23,7 @@ export const Partners = () => {
             md={3}
             xs={1}
           >
-            <a href="https://www.tuni.fi/fi/" target="_blank">
+            <a href="https://www.tuni.fi/fi/" target="_blank" rel="noreferrer">
               <img src={universitylogo} alt="Tampere University logo" />
             </a>
           </Col>
@@ -34,7 +34,7 @@ export const Partners = () => {
             md={3}
             xs={1}
           >
-            <a href="https://projects.tuni.fi/reilumedia/" target="_blank">
+            <a href="https://projects.tuni.fi/reilumedia/" target="_blank" rel="noreferrer">
               <img src={reilumedialog} alt="Reilu media logo" />
             </a>
           </Col>
@@ -45,7 +45,7 @@ export const Partners = () => {
             md={3}
             xs={1}
           >
-            <a href="https://www.mediaalantutkimussaatio.fi/" target="_blank">
+            <a href="https://www.mediaalantutkimussaatio.fi/" target="_blank" rel="noreferrer">
               <img src={sponsorlogo} alt="Sponsor logo" id="sponsorlogo" />
             </a>
           </Col>

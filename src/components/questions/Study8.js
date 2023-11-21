@@ -11,16 +11,16 @@ export const Study8 = () => {
         }
         options={[
           {
-            value: "Käytän auktorisoituja ja virallisia lähteitä​",
+            value: "Käytän auktorisoituja ja virallisia lähteitä.",
             navigate: "info/9",
           },
           {
             value:
-              "Käytän aihetta koskevia erilaisia tiedon ja tutkimuksen lähteitä​​",
+              "Käytän aihetta koskevia erilaisia tiedon ja tutkimuksen lähteitä.",
             navigate: "info/10",
           },
           {
-            value: "Kysyn aiheesta heiltä, joita asia erityisesti koskettaa​​",
+            value: "Kysyn aiheesta heiltä, joita asia erityisesti koskettaa.",
             navigate: "info/11",
           },
         ]}

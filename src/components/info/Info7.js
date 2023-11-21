@@ -21,7 +21,7 @@ export const Info7 = () => {
         readmore={[
           {
             value:
-              "Puheenvuoro Kaikkien mediasta​",
+              "Puheenvuoro kaikkien mediasta​",
             navigate: "https://mediakasvatus.fi/puheenvuoro/2022/06/kaikkien-media-kohti-inklusiivisempaa-mediakulttuuria-ja-mediakasvatusta/",
           },
         ]}
