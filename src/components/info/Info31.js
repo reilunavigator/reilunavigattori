@@ -23,6 +23,11 @@ export const Info31 = () => {
           },
           {
             value:
+              "Journalistin verkkovihaopas​",
+            navigate: "https://www.jokes-saatio.fi/journalistin-verkkovihaopas/",
+          },
+          {
+            value:
               "Vihapuhetyökalupakki​",
             navigate: "https://www.suomenpen.fi/en/vihapuhetyokalupakki/",
           },

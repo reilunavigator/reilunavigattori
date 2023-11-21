@@ -14,7 +14,7 @@ export const Info9 = () => {
           "Reiluja vinkkejä lähdevalintoihin:​",
         ]}
         bulletpoints={[
-          "Monipuolista näkökulmia vähemmän tunnettuja asiantuntijoita haastattelemalla.​",
+          "Monipuolista näkökulmia haastattelemalla harvemmin ääneen pääseviä asiantuntijoita.​",
           "Ole kriittinen ja varmista tiedot myös viranomaistiedon ja auktorisoitujen lähteiden osalta.​​",
           "Selvitä ovatko asiantuntijat yksimielisiä vai onko aiheesta erilaisia näkemyksiä, joita pitäisi kuunnella ja tuoda julkiseen keskusteluun.​",
         ]}

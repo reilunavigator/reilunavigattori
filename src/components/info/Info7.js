@@ -15,7 +15,7 @@ export const Info7 = () => {
         ]}
         bulletpoints={[
           "Kunnioita kaikkia ihmisiä erilaisine näkemyksineen ja anna sen välittyä jutussasi.​",
-          "Ota mukaan ennen kuulumattomia ja vähemmistöjen näkökulmia.​​​",
+          "Ota mukaan ennenkuulumattomia ja vähemmistöjen näkökulmia.​​​",
           "Anna ihmisten kohdata toisensa tasa-arvoisesti ja ilmaista näkemyksensä turvallisesti.​​​",
         ]}
         readmore={[

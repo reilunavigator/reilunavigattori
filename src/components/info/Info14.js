@@ -15,7 +15,7 @@ export const Info14 = () => {
         ]}
         bulletpoints={[
           "Tunnista tulkintakehyksesi ja sen vaikutus kerrontaasi.​​​",
-          "Vältä  leimaavia, loukkaavia termejä ja syrjäyttäviä ilmaisutapoja.​​​",
+          "Harjoita erityistä herkkyyttä, ettei leimaavia, loukkaavia tai syrjäyttäviä termejä esiinny jutussasi.​​​",
           "Varo agendajournalismia eli yleisön mahdollista tulkintaa tietyn asian ajamisesta.​​",
           "Varo tunteiden ja faktojen sekaantumista kerronnassa.​​​​",
         ]}
