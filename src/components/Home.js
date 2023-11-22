@@ -16,7 +16,7 @@ export const Home = () => {
     <section className="banner" id="home">
       <Container>
         <Row className="align-items-center">
-          <Col xs={12} md={2} xl={7} id="homeleftcol">
+          <Col xs={12} xl={7} id="homeleftcol">
             <h1 data-aos="fade-down" data-aos-duration="3000">
               Reiluusnavigaattori
             </h1>

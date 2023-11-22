@@ -759,9 +759,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   .banner h2 {
     font-size: 1.25rem;
   }
-  #homeleftcol {
-    width: 50%;
-  }
   #homebutton {
     font-size: 0.8rem;
   }
@@ -1002,5 +999,39 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   }
   #valitsebtn {
     width: 30%;
+  }
+}
+
+@media (max-width: 1199px) and (min-width: 1025px) {
+  .banner h1 {
+    font-size: 3rem;
+  }
+  #homeleftcol {
+    width: 50%;
+  }
+}
+@media (max-width: 1024px) and (min-width: 991px) {
+  .banner h1 {
+    font-size: 3rem;
+  }
+  #homeleftcol {
+    width: 50%;
+  }
+}
+
+@media (max-width: 991px) and (min-width: 769px) {
+  .banner h1 {
+    font-size: 2.25rem;
+  }
+  #homeleftcol {
+    width: 100%;
+  }
+  #homerightcol {
+    margin-top: 3rem;
+  }
+}
+@media (max-width: 768px){
+  #homerightcol {
+    margin-top: 3rem;
   }
 }
